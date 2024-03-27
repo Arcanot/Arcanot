@@ -1,16 +1,23 @@
-### Hi there 👋
+¡Hola! 👋
+Mi nombre es Leonardo, estudiante de Ingeniería de Sistemas Computacionales con una pasión ardiente por la Ciencia de Datos e Inteligencia Artificial. Con sólidas habilidades en Desarrollo de Aplicaciones Android y experiencia en la implementación de Metodologías Ágiles como Scrum, estoy listo para sumergirme en proyectos emocionantes y desafiantes.
+
+🧠 Experticias
+Ciencia de Datos
+Inteligencia Artificial
+Desarrollo de Aplicaciones Android
+Prácticas Ágiles (Scrum)
 
 
-**Arcanot/Arcanot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Habilidades Destacadas
+Análisis de Datos
+Machine Learning
+Creación de Aplicaciones Móviles (Android)
+Gestión Ágil de Proyectos (Scrum)
 
-Here are some ideas to get you started:
+🚀 En Búsqueda de Oportunidades
+Como estudiante de Ingeniería de Sistemas Computacionales, mi objetivo es ingresar al mercado laboral para obtener experiencia práctica en el desarrollo de aplicaciones, machine learning y otras áreas relacionadas con mi carrera. Estoy activamente buscando colaboraciones, pasantías y proyectos innovadores que me permitan crecer y contribuir al panorama tecnológico en constante evolución.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔗 Conéctate Conmigo
+Me encantaría conectar con profesionales de la industria, compañeros estudiantes y cualquier apasionado por la tecnología en Ciencia de Datos e Inteligencia Artificial. ¡No dudes en enviarme un mensaje para discutir ideas, proyectos o simplemente charlar sobre este fascinante viaje tecnológico! Puedes encontrarme en LinkedIn y Twitter.
 
+¡Gracias por visitar mi perfil! 🌐
