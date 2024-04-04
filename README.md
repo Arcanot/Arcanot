@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es Leonardo, estudiante de Ingeniería de Sistemas Computacionales con una pasión ardiente por la Ciencia de Datos e Inteligencia Artificial. Con sólidas habilidades en Desarrollo de Aplicaciones Android y experiencia en la implementación de Metodologías Ágiles como Scrum, estoy listo para sumergirme en proyectos emocionantes y desafiantes.
+¡Bienvenido a mi perfil de GitHub! Soy Leonardo, un estudiante de Ingeniería de Sistemas Computacionales con una pasión ardiente por la Ciencia de Datos e Inteligencia Artificial. Con sólidas habilidades en Desarrollo de Aplicaciones Android y experiencia en la implementación de Metodologías Ágiles como Scrum, estoy listo para sumergirme en proyectos emocionantes y desafiantes.
 
 ## 🧠 Experticias
 
