@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Jorge Orestes Centurion Diaz</h1>
-<h3 align="center">A passionate developer from Perú, soy estudiante de Ingeniería de Sistemas Computacionales con una pasión ardiente por la Ciencia de Datos e Inteligencia Artificial. Con sólidas habilidades en Desarrollo de Aplicaciones Android y experiencia en la implementación de Metodologías Ágiles como Scrum, estoy listo para sumergirme en proyectos emocionantes y desafiantes.</h3>
+<h3 align="center">Un apasionado desarrollador de Perú, soy estudiante de Ingeniería de Sistemas Computacionales con una pasión ardiente por la Ciencia de Datos e Inteligencia Artificial. Con sólidas habilidades en Desarrollo de Aplicaciones Android y experiencia en la implementación de Metodologías Ágiles como Scrum, estoy listo para sumergirme en proyectos emocionantes y desafiantes.</h3>
 
  ## 🧠 Experticias
 
